@@ -1,0 +1,18 @@
+.cartContainer {
+    width: 40vw;
+    height: 45vh;
+    background-color: rgb(79, 79, 79);
+    position: absolute;
+    left: 30vw;
+    top: 200px;
+    padding-top: 10px;
+
+}
+
+.cartItems {
+    width: 96%;
+    height: 35vh;
+    overflow-y: scroll;
+    box-shadow: 2px 2px 0px gray;
+    padding: 10px;
+}

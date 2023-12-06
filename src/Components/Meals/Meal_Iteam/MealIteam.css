@@ -1,0 +1,12 @@
+.mealIteam_container {
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.mealIteam_details p:first-child {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: -10px;
+}
